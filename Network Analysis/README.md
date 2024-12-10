@@ -7,7 +7,7 @@ BLACKLIST_URLS = {
     #"example_blacklist1": "http://example.com/blacklist1.txt",
     #"example_blacklist2": "http://example.com/blacklist2.txt"
     }
-BLACKLIST_DIRECTORY = r"C:\Users\<username>\Desktop\Network Analysis\bad_lists"
+BLACKLIST_DIRECTORY = r"C:\Users\username\Desktop\Network Analysis\bad_lists"
 
 Once you have a decent threatfeed directory of your liking move on to the second script "dns_blacklists.py"
 This script will compare what is listed in the bad_lists directory against your text file of IPs and/or domains that need to be checked.
