@@ -2,7 +2,7 @@ There are two scripts to run and you can take them as is or edit them to your li
 
 The first script to run is "import_blacklists.py" - this script pulls threatfeeds based on URL and saves them as txt to a directory
 Example:
-# Configurations for blacklists
+
 BLACKLIST_URLS = {
     #"example_blacklist1": "http://example.com/blacklist1.txt",
     #"example_blacklist2": "http://example.com/blacklist2.txt"
