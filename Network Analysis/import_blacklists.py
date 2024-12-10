@@ -32,7 +32,7 @@ BLACKLIST_URLS = {
 
 
 }
-BLACKLIST_DIRECTORY = r"C:\Users\devon.cahill\Desktop\Helpful Tools\ethanr-dns-blacklists-8575c9f96e5b\bad_lists"
+BLACKLIST_DIRECTORY = r"C:\Users\username\Desktop\Network Analysis\bad_lists"
 
 # Helper functions
 def download_blacklist(name, url, directory):
